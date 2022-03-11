@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   resources :chapters
   resources :sections
-
+  
 end
